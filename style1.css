@@ -272,7 +272,7 @@ span {
         margin-top: 4rem;
     }
 
-.project {
+.project a {
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -288,7 +288,7 @@ span {
 /*     margin-top:100px; */
     color:white;
 }
-.project:hover {
+.project a:hover {
     background-color:#9d53ff;
     color:white;
 }
