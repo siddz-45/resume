@@ -273,17 +273,18 @@ span {
     }
 
 .project {
-     display: inline-block;
-    padding:1rem 2.8rem;
-    background-color: black;
-    border-radius: 10rem;
-    font-size: 1.6rem;
-    color: #9d53ff;
-    letter-spacing: 0.3rem;
-    font-weight: 600;
-    border:2px solid #9d53ff;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 4rem;
+    height: 4rem;
+    background-color: transparent;
+    border: 0.2rem solid #9d53ff;
+    font-size: 2rem;
+    border-radius: 50%;
+    margin: 3rem 1.5rem 3rem 0;
     transition: 0.3s ease;
-    cursor:pointer;
+    color: #9d53ff;
 }
 .project:hover {
     background-color:white;
