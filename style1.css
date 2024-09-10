@@ -285,6 +285,7 @@ span {
     margin: 3rem 1.5rem 3rem 0;
     transition: 0.3s ease;
     color: #9d53ff;
+    margin-top:50px;
 }
 .project:hover {
     background-color:white;
