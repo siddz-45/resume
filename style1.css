@@ -279,13 +279,13 @@ span {
     width: 8rem;
     height: 4rem;
     background-color: transparent;
-    border: 0.2rem solid #9d53ff;
-    font-size: 2rem;
+    border: 4rem solid #9d53ff;
+    font-size: 1rem;
     border-radius: 6px;
-    margin: 6rem 1.5rem 3rem 0;
+    margin: auto;
     transition: 0.3s ease;
     color: #9d53ff;
-    margin-top:100px;
+/*     margin-top:100px; */
     color:white;
 }
 .project:hover {
